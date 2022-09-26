@@ -14,7 +14,7 @@ Task 7-print_chessboard.c is a function that prints the chessboard.
 
 Task 8-print_diagsums.c is a function that prints the sum of the two diagonals of a square matrix of integers.
 
-Task 100-set_string.c is a function that sets the value of a pointer to a char.
+Task 9-set_string.c is a function that sets the value of a pointer to a char.
 
 Header-File main.h is the header file with the functions prototypes.
 
