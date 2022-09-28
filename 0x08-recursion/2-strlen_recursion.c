@@ -2,10 +2,11 @@
 
 /**
  * _strlen_recurion - returns the length of a string
- * @s: string to calculate the length
+ * @s: string to calculate the length of string
  *
  * Return: length of the string
  */
+
 int _strlen_recursion(char *s)
 {
 	if (*s == '\0')
