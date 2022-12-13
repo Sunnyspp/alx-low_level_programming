@@ -1,14 +1,7 @@
-#include <stdio.h>
 #include "main.h"
 
-int main()
+int main(void)
 {
-    int a = 30, b = 10;
-    
-    lib_add(a, b);
-    lib_diff(a, b);
-    lib_div(a, b);
-    lib_mult(a, b);
-    
-    return 0;
+	_puts("\"At the end of the day, my goal was to be the best hacker\"\n\t- Kevin Mitnick");
+	return (0);
 }
