@@ -1,6 +1,6 @@
 **LOW LEVEL PROGRAMMING LANGUAGE (C-PROGRAMMING)**
 
-> 0x00-hello_world
+...0x00-hello_world
 
 0x01-variables_if_else_while
 
@@ -20,4 +20,4 @@
 
 0x09-static_libraries
 
-0x0A-argc_argv
+0x0A-argc_argv...
